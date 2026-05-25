@@ -71,3 +71,4 @@ Mi principal interés profesional es la ciberseguridad ofensiva, especialmente e
 ## Contacto
 
 - LinkedIn: https://www.linkedin.com/in/sergio-gonzalez-noria
+- Email: sergiogonzaleznoria48@gmail.com (contacto profesional)
