@@ -23,10 +23,11 @@ Complemento mi formación con laboratorios prácticos en plataformas como TryHac
 
 - Pentesting
 - Red Team
-- Seguridad Web
+- Seguridad en aplicaciones web
 - Active Directory
-- Vulnerability Assessment
-- Windows & Linux Security
+- Sistemas Linux y Windows
+- Análisis de vulnerabilidades
+- CTFs y laboratorios
 
 ---
 ## Tecnologías y herramientas
