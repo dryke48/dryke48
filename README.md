@@ -13,7 +13,7 @@ Complemento mi formación con laboratorios prácticos en plataformas como TryHac
 ---
 ## Proyectos destacados
 
-- [Portfolio de TryHackMe]() — Write-ups y documentación de laboratorios de pentesting.
+- [Portfolio de TryHackMe](https://dryke48.github.io) — Write-ups y documentación de laboratorios de pentesting.
 - [HackerMaster](https://github.com/dryke48/HackerMaster) — Plataforma de entrenamiento de ciberseguridad tipo laboratorio (TFG).
 - [Taller RFID](#) — Taller práctico sobre tecnologías RFID y técnicas de ataque en entornos controlados.
 - [Proyectos de Ciberseguridad](#) — Prácticas y auditorías realizadas durante la especialización.
